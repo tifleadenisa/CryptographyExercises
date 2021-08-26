@@ -1,0 +1,22 @@
+	BBS GENERATOR
+Test1:
+      Numarul de caractere: 1,048,576
+      Numarul de 0 generati: 523.887 (49.961 %)
+      Numarul de 1 generati: 524.689 (50.038 %)
+
+Test2:
+      Dimensiune text: 1.024 KB
+      Dimensiune ZIP text random: 146 KB
+      Dimensiune ZIP text doar cu 1: 2 KB
+
+
+	JACOBI GENERATOR
+Test1:
+      Numarul de caractere: 1,048,576
+      Numarul de 0 generati: 524.586 (50.028 %)
+      Numarul de 1 generati: 523.990 (49.971%)
+
+Test2:
+      Dimensiune text: 1.024 KB
+      Dimensiune ZIP text random: 146 KB
+      Dimensiune ZIP text doar cu 1: 2 KB

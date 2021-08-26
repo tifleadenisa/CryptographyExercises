@@ -1,0 +1,5 @@
+Timpi de rulare + scriere in fisier: (pentru a genera 2^20 biti)
+
+-BBS: 130565 ms (130.565 s = 2.176083333 min)
+-Jacobi: 113480 ms (113.480 s = 1.891333333 min)
+-LFSR: 284 ms (0.284 s = 0.004733333 min)

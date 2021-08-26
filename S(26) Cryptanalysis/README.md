@@ -1,0 +1,2 @@
+Let’s assume that the plaintext is a text over the alphabet {A, B, …, Z} (for example, a text in which we kept the uppercase letters, we converted lowercase letters in uppercase letters and we deleted all the other symbols (numbers, spaces, commas, periods, etc.)) and we’ll use, for example, the key π (A-O, B-P, C-Q, D-R, E-S, F-T, G-U, H-V, I-W, J-X, K-Y, L-Z, M-A, N-B, O-C, P-D, Q-E, R-F, S-G, T-H, U-I, V-J, W-K, X-L, Y-M, Z-N.
+Crack S(26) using frequency analysis.
